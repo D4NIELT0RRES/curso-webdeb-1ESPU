@@ -1,4 +1,3 @@
-/* este é um comentário
     
     console.log("Daniel")
     console.info("Informacao")
@@ -31,10 +30,10 @@
     const API_URL = "url"
 
 
-=====================================================================
 
 
-/* let texto = "Ola"
+
+ let texto = "Ola"
 console.log("texto =" + texto + "tipo:"+typeof(texto))
 
 let numero = 42
@@ -68,7 +67,7 @@ let task = {
   }
 };
 
-==============================================================================
+
 
 const tasks = [ 
     {
@@ -86,7 +85,6 @@ const tasks = [
 console.log(tasks)
 console.table(tasks)
 
-===================================
 
 let hoje = new Date()
 console.log(hoje)
@@ -121,7 +119,6 @@ console.log("Convertido:" + convertido6 + "tipo:" + typeof(convertido6))
 let convertido7 = Boolean()
 console.log("Convertido:" + convertido7 + "tipo:" + typeof(convertido7))
 
-==========================================================================
 
 let a = 10;
 let b = 3;
@@ -142,7 +139,7 @@ console.log(++contador1)
 console.log(contador2++)
 console.log(contador2++)
 
-==========================================================================
+
 
 let x = 10;
 x += 5; // x = 15
@@ -153,7 +150,6 @@ x %= 2; // x = 0
 x **= 3; // x = 0 (0 elevado a 3)
 
 
-==========================================================================
 
 
 console.log(10 == "10");   // true (compara valor somente)
@@ -167,4 +163,3 @@ console.log(true && false);  // false (AND)
 console.log(true || false);  // true  (OR)
 console.log(!true);          // false (NOT)
 
-*/
